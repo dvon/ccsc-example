@@ -4,12 +4,19 @@ layout: default
 
 # CCSC Example
 
-Hello, World!
+A (very short) paragraph, followed by a list:
 
-~~~python
-print("Hello, World!")
+-   An item
+-   And an italicized *item*
+
+## Subtitle, Source Code
+
+~~~java
+public static void main(String[] args) {
+    System.out.println("Hello, World!");
+}
 ~~~
 
-$$\begin{aligned}
-(x, y) = (110, 6!)
-\end{aligned}$$
+## Another Subtitle, and Some Math
+
+\\( \cos (\phi + \theta) = \cos \phi \cos \theta - \sin \phi \sin \theta \\)
