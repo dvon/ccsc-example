@@ -1,2 +1,4 @@
-# ccsc-example
-Example for CCSC Tutorial
+
+# CCSC Example
+
+<https://dvon.github.io/ccsc-example/>
