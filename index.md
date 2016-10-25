@@ -4,7 +4,8 @@ layout: default
 
 # CCSC Example
 
-A (very short) paragraph, followed by a list:
+A (very short) paragraph,
+followed by a list:
 
 -   An item
 -   And an italicized *item*
