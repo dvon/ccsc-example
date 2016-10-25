@@ -8,7 +8,10 @@ A (very short) paragraph,
 followed by a list:
 
 -   An item
--   And an italicized *item*
+-   An italicized *item*
+
+-   A third
+    item.
 
 ## Subtitle, Source Code
 
