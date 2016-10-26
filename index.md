@@ -15,11 +15,11 @@ followed by a list:
 
 ## Subtitle, Source Code
 
-~~~java
+```java
 public static void main(String[] args) {
     System.out.println("Hello, World!");
 }
-~~~
+```
 
 ## Another Subtitle, and Some Math
 
